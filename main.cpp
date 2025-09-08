@@ -1,9 +1,5 @@
 /*
-* Rachael Savage
 * MS549-Data Structures and Testing
-* Dr. Jill Coddington
-* 11/03/2024
-
 */
 
 #include <iostream>
